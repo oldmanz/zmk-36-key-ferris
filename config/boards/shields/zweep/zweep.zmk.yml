@@ -1,0 +1,12 @@
+file_format: "1"
+id: zweep
+name: Zweep
+type: shield
+url: https://github.com/oldmanz/zmk-zboard
+requires: [pro_micro]
+exposes: []
+features:
+  - keys
+siblings:
+  - zweep_left
+  - zweep_right
