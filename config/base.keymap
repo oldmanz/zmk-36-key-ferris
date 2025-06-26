@@ -5,13 +5,13 @@
 #include "./zmk-nodefree-config/helper.h"
 
 #define DEF 0
-#define GAME 2
-#define GAME2 3
-#define NAV 4
-#define FN 5
-#define NUM 6
-#define SYM 7
-#define SYS 8
+#define GAME 1
+#define GAME2 2
+#define NAV 3
+#define FN 4
+#define NUM 5
+#define SYM 6
+#define SYS 7
 
 #include "combos.dtsi"  // requires layer aliases
 
